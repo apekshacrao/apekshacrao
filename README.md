@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Code.+Experiment.+Repeat.;Building.+Learning.+Shipping.;" />
 </p>
 
-I am a student passionate about building practical tech projects and exploring innovative ideas in programming. I enjoy developing interactive web applications that simplify complex concepts and enhance user understanding. With a strong interest in learning new technologies, I focus on solving real-world problems through code and continuously improving my skills by building and sharing projects on GitHub.
+I am a student passionate about building practical tech projects and exploring innovative ideas in programming. I enjoy developing interactive web applications that simplify complex concepts and enhance user understanding. A collection of projects, experiments, and ideas focused on learning and innovation.Always curious to build interactive and impactful applications.With a strong interest in learning new technologies, I focus on solving real-world problems through code and continuously improving my skills by building and sharing projects on GitHub.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.apexa._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apeksha-c-rao-12a10734a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:apekshacrao@gmail.com)
