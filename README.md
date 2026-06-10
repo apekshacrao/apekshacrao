@@ -114,5 +114,4 @@ A platform designed to simplify and streamline academic or career decision-makin
 
 
 
-For socials section give me a button for instagram handle similar to other two(linked in and email) in readmefile
-Insta user name: a.apexa._
+
