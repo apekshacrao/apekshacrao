@@ -11,7 +11,7 @@
 
 I'm an Information Science student passionate about software development, problem solving, and building practical applications.
 
-I enjoy transforming ideas into software solutions and continuously exploring new technologies. My interests span Full Stack Development, Cloud Technologies, Databases, and Scalable Web Applications.
+I am passionate about transforming ideas into impactful software solutions while continuously exploring emerging technologies. My areas of interest include Full Stack Development, Cloud Technologies, Database Systems, and scalable web application development.
 
 ### Currently Exploring
 
