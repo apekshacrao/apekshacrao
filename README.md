@@ -20,7 +20,7 @@ I am passionate about transforming ideas into impactful software solutions while
 * Cloud Computing
 * Backend Engineering
 * Modern Web Technologies
-
+i am also socially passionate to work in different fields .. 
 
 ---
 
