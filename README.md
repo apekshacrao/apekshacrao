@@ -18,7 +18,6 @@ I am passionate about transforming ideas into impactful software solutions while
 * Full Stack Development
 * Data Structures & Algorithms
 
-* Backend Engineering
 * Modern Web Technologies
 i am also socially passionate to work in different fields .. 
 
